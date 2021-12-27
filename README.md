@@ -8,3 +8,5 @@
 ### After using the Cosine Similarity Machine Learning Algorithm, the result was dataframe containing a course together with its assigned cosine similarity. A sample of the results is shown below: 
 
 <img width="1036" alt="Screen Shot 2021-12-27 at 6 52 55 AM" src="https://user-images.githubusercontent.com/18570056/147435891-41eca20e-4fb5-4918-a3a7-4bb70e885da7.png">
+
+Courses with similar similarity scores(similarity scores in a specific range) were in the same category, e.g a similarity score in the 0.5.. range meant the courses were about trading. 
